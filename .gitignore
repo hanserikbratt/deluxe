@@ -1,3 +1,8 @@
+/out/**
+
+
+## The following is the standard github .gitignore
+
 # Prerequisites
 *.d
 
